@@ -1,0 +1,36 @@
+JAVA 날짜표현 메소드
+    1.Calendar
+    Clander.Year - 년도 반환
+    Clander.MONTH - 월 반환
+    Clander.DAY_OF_MONTH - 일 반환
+    Clander.DAY_OF_WEEK - 요일 반환
+    Clander.AM_PM - 오전/오후 반환
+    Clander.HOUR - 시간 반환
+    Clander.MINUTE - 분 반환
+    Clander.SECOND - 초 반환
+
+    getTime() - 현재날짜를 Date 타입으로 반환
+    setTime() - Date객체를 이용해 날짜 설정
+    getTimeInMillis() - Calendar의 시간을 밀리초로 반환
+    setTimeInMillis() - Calender의 시간을 밀리초로 설정
+    get() - 상수값을 사용하여 해당값을 반환
+    set() - 상수값을 사용하여 해당값을 성정
+
+    2.SimpleDateFormat
+        y - 년
+        M - 월
+        d - 일
+        H - 시간 0 ~ 23
+        m - 분
+        s - 초
+        h - 시간 1 ~ 12
+        a - AM/PM
+
+
+
+
+
+
+
+
+
